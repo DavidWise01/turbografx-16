@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The HuC6260 VCE
+node TG6 · TG6 · ⟦The HuC6260 VCE:TG6:76ab2a⟧
+
+WHO   — The HuC6260 VCE — the palette engine · electrical
+WHAT  — the palette engine · electrical
+WHERE — TG6 · TURBOGRAFX-16 · PC ENGINE (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — The Video Colour Encoder, mixing up to 482 on-screen colours from a 512-colour space and generating the video signal.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  the palette engine · electrical
+
+spoken token : nond-zeil-dor   ·   hex : 76ab2a
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

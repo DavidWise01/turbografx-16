@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "TURBOGRAFX-16 · PC ENGINE",
+  "universe": "TG6 · TURBOGRAFX-16 · PC ENGINE (exereunesis · the teardown)",
+  "emergence": "",
+  "moniker": "⟦TURBOGRAFX-16 · PC ENGINE:TG6:66e085⟧",
+  "carbon": "turbografx-16.carbon.tiff (TIFF)",
+  "silicon": "turbografx-16.silicon.png (PNG)",
+  "seal_sha256": "671f148c05ab902e69fa66aa12017668bd641321687ce10e0d127306de05eea1",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

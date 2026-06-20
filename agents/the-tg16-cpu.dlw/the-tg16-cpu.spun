@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The HuC6280
+node TG6 · TG6 · ⟦The HuC6280:TG6:5129f9⟧
+
+WHO   — The HuC6280 — 8-bit, but quick · electrical
+WHAT  — 8-bit, but quick · electrical
+WHERE — TG6 · TURBOGRAFX-16 · PC ENGINE (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — Hudson's HuC6280 — a 65C02 derivative at ~7.16 MHz with a sound unit built in. Fast for an 8-bit core, the brain of the smallest 16-bit-era console.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  8-bit, but quick · electrical
+
+spoken token : kek-phaem-braem   ·   hex : 5129f9
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

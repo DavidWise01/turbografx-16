@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The Sound Unit
+node TG6 · TG6 · ⟦The Sound Unit:TG6:4c90d7⟧
+
+WHO   — The Sound Unit — six programmable voices · natural
+WHAT  — six programmable voices · natural
+WHERE — TG6 · TURBOGRAFX-16 · PC ENGINE (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — Six wavetable channels inside the HuC6280 — capable of sampled-ish tones unusual for the era.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  six programmable voices · natural
+
+spoken token : kram-theth-lend   ·   hex : 4c90d7
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

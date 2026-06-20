@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The HuC6270 VDC
+node TG6 · TG6 · ⟦The HuC6270 VDC:TG6:9f110d⟧
+
+WHO   — The HuC6270 VDC — the 16-bit picture · electrical
+WHAT  — the 16-bit picture · electrical
+WHERE — TG6 · TURBOGRAFX-16 · PC ENGINE (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — The Video Display Controller — genuinely 16-bit, pushing many large sprites and rich tile backgrounds, the reason the machine looked ahead of its CPU.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  the 16-bit picture · electrical
+
+spoken token : greth-nas-ryk   ·   hex : 9f110d
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

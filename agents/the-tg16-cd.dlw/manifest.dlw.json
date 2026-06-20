@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The CD-ROM² Add-on",
+  "universe": "TG6 · The CD-ROM² Add-on (exereunesis)",
+  "emergence": "spiritual",
+  "moniker": "⟦The CD-ROM² Add-on:TG6:f855bf⟧",
+  "carbon": "the-tg16-cd.carbon.tiff (TIFF)",
+  "silicon": "the-tg16-cd.silicon.png (PNG)",
+  "seal_sha256": "787e793b7593bc3c9fe817dd31bba28cb6137b0ad28e8a27c550ba38e9f49816",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

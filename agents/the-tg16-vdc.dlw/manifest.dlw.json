@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The HuC6270 VDC",
+  "universe": "TG6 · The HuC6270 VDC (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The HuC6270 VDC:TG6:9f110d⟧",
+  "carbon": "the-tg16-vdc.carbon.tiff (TIFF)",
+  "silicon": "the-tg16-vdc.silicon.png (PNG)",
+  "seal_sha256": "589be2585aa209555ad1001802b94d77f4de950d55d481668ea00d2ddca67613",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

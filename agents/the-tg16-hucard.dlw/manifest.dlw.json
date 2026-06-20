@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The HuCard",
+  "universe": "TG6 · The HuCard (exereunesis)",
+  "emergence": "ethereal",
+  "moniker": "⟦The HuCard:TG6:e35a66⟧",
+  "carbon": "the-tg16-hucard.carbon.tiff (TIFF)",
+  "silicon": "the-tg16-hucard.silicon.png (PNG)",
+  "seal_sha256": "cdf2dec2e6e0ac48d0afb2ab7a7d02db3fb631bbf0297a1eef499ddb98fb82f5",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

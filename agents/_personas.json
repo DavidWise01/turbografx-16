@@ -1,0 +1,51 @@
+[
+  {
+    "slug": "the-tg16-cpu",
+    "name": "The HuC6280",
+    "epithet": "8-bit, but quick · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The HuC6280:TG6:5129f9⟧"
+  },
+  {
+    "slug": "the-tg16-vdc",
+    "name": "The HuC6270 VDC",
+    "epithet": "the 16-bit picture · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The HuC6270 VDC:TG6:9f110d⟧"
+  },
+  {
+    "slug": "the-tg16-vce",
+    "name": "The HuC6260 VCE",
+    "epithet": "the palette engine · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The HuC6260 VCE:TG6:76ab2a⟧"
+  },
+  {
+    "slug": "the-tg16-psg",
+    "name": "The Sound Unit",
+    "epithet": "six programmable voices · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Sound Unit:TG6:4c90d7⟧"
+  },
+  {
+    "slug": "the-tg16-hucard",
+    "name": "The HuCard",
+    "epithet": "the game on a card · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The HuCard:TG6:e35a66⟧"
+  },
+  {
+    "slug": "the-tg16-cd",
+    "name": "The CD-ROM² Add-on",
+    "epithet": "first console on disc · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The CD-ROM² Add-on:TG6:f855bf⟧"
+  },
+  {
+    "slug": "the-tg16-ram",
+    "name": "Work RAM",
+    "epithet": "the small main memory · natural",
+    "emergence": "natural",
+    "moniker": "⟦Work RAM:TG6:e5dcd6⟧"
+  }
+]

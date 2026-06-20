@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The HuC6280",
+  "universe": "TG6 · The HuC6280 (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The HuC6280:TG6:5129f9⟧",
+  "carbon": "the-tg16-cpu.carbon.tiff (TIFF)",
+  "silicon": "the-tg16-cpu.silicon.png (PNG)",
+  "seal_sha256": "f916eb242d4fea02f8dfdd570d257eb82d372b38a99781c7db580283c23c427f",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
